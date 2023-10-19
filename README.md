@@ -1,6 +1,8 @@
 # EventMaster
 Projeto final--TI
+
 Empresa: EventoMaster 
+
 Escopo do Sistema de Gerenciamento de Projetos de Eventos: 
 A empresa tem como objetivo facilitar a organização de eventos, fornecendo uma plataforma para gerenciar todos os aspectos do planejamento de um evento, desde o início até a conclusão.  
 
